@@ -1,3 +1,4 @@
+---
 title: "Assessing the impact of combined light into alertness from a dynamical systems' perspective"
 authors:
 - Qi, C.
