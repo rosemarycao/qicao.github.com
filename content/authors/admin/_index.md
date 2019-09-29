@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Decision Sciences and Engineering Systems
+  - course: Ph.D. in Decision Sciences and Engineering Systems
     institution: Rensselaer Polytechnic Institute
     year: 2018-2022(Expected)
   - course: MSc in Industrial and Systems Engineering
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Qi Cao is a Ph.D. student in Decision Sciences and Engineering Systems. Now she is in her second year in the Indusrtrial and Systems Engineering (ISE) department at Rensselaer Polytechnic Institute (RPI), advised by Dr. Sérgio Pequito. Her research interests include neuroscience, machine Learnig and control theory.
