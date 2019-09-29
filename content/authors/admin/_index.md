@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Qi Cao is a Ph.D. student in Decision Sciences and Engineering Systems. Now she is in her second year in the Indusrtrial and Systems Engineering (ISE) department at Rensselaer Polytechnic Institute (RPI), advised by Dr. Sérgio Pequito. Her research interests include neuroscience, machine Learnig and control theory.
+Qi Cao is a Ph.D. student in Decision Sciences and Engineering Systems. Now she is in her second year in the Industrial and Systems Engineering (ISE) department at Rensselaer Polytechnic Institute (RPI), advised by Dr. Sérgio Pequito. Her research interests include neuroscience, machine Learnig and control theory.
